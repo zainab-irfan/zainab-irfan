@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Projects
-- 🧮 [Calculator in C++](#https://github.com/zainab-irfan/calculator-cpp-/tree/main)  
+- 🧮 [Calculator in C++](https://github.com/zainab-irfan/calculator-cpp-/tree/main)  
 - 🌐 [Personal Portfolio Website](#)  
 - 🧠 [Python Mini App](#)  
 
