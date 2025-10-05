@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Zainab Irfan  
 
-<!--
-**zainab-irfan/zainab-irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS IT (2nd Semester), Bahria University**  
+💻 Passionate about learning programming and building creative tech projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+- **Languages:** C++, Python (basic), HTML, CSS  
+- **Tools:** Canva, VS Code, GitHub  
+- **Learning:** Object Oriented Programming, Prompt Engineering  
+
+---
+
+## 🚀 Projects
+- 🧮 [Calculator in C++](#)  
+- 🌐 [Personal Portfolio Website](#)  
+- 🧠 [Python Mini App](#)  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/zainab-irfan73)  
+- ✉️ **zzainabirfan73@gmail.com**  
+
+---
+
+⭐ *“Code. Learn. Improve. Repeat.”*
+
+
